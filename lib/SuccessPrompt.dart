@@ -78,7 +78,7 @@ class SuccessPrompt extends StatelessWidget {
                   ),
                 ),
               ),
-              SizedBox(height: 40), // Adding spacing
+              SizedBox(height: 10), // Adding spacing
               Container(
                 width: 212,
                 height: 47,
