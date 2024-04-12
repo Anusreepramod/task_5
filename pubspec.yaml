@@ -65,6 +65,8 @@ flutter:
     - assets/images/send (1) 1.png
     - assets/images/Arrow back.png
     - assets/images/Rectangle 61.png
+    - assets/images/image 1.png
+    - assets/images/info 1.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
