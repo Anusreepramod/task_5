@@ -67,7 +67,24 @@ flutter:
     - assets/images/Rectangle 61.png
     - assets/images/image 1.png
     - assets/images/info 1.png
+    - assets/images/most recent.png
+    - assets/images/ellipse 12.png
+    - assets/images/ellipse 13.png
+    - assets/images/ellipse 14.png
+    - assets/images/ellipse 15.png
+    - assets/images/ellipse 16.png
+    - assets/images/tcs.png
+    - assets/images/report card.png
+    - assets/images/curriculam.png
+    - assets/images/Rectangle 77.png
+    - assets/images/atlassian.png
+    - assets/images/deloitte.png
+    - assets/images/report card.png
+    - assets/images/cognizant.png
+    - assets/images/deloitte.png
+    - assets/images/accenture.png
   #   - images/a_dot_ham.jpeg
+  
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
