@@ -1,6 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:task5/EnrollChallengeLive.dart';
+import 'package:task5/LoadingJobApply.dart';
 import 'package:task5/SuccessPrompt.dart';
 import 'package:task5/challenge.dart';
 
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home:Challenges(),
+      home:Loading(),
     );
   }
 }
